@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=OrderedList
+comment0.text=\r\n\ OrderedList.java\ -\ create\ a\ constructor\ for\ an\ ordered\ list\r\n\ and\ multiple\ methods\ to\ change\ the\ list\ or\ test\ its\ content\r\n\ \r\n\ @author\ Garrett\ Detwiler\ \r\n\ @version\ 5\ November\ 2023\r\n
+comment1.params=
+comment1.target=OrderedList()
+comment1.text=\r\n\ Constructor\ sets\ the\ front\ and\ rear\ Items\ to\ null\r\n
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment2.text=\r\n\ isEmpty()\ returns\ true\ if\ the\ list\ is\ empty,\ false\ otherwise\r\n
+comment3.params=num
+comment3.target=void\ insertInOrder(int)
+comment3.text=\r\n\ insertInOrder()\ inserts\ an\ integer\ into\ the\ \r\n\ correct\ place\ in\ ordered\ list\ and\ updates\ the\ \r\n\ positions\ and\ values\ of\ front\ and\ rear\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ toString()\ returns\ a\ formatted\ String\ representing\ the\ list\r\n
+comment5.params=
+comment5.target=java.lang.String\ stringTo()
+comment5.text=\r\n\ stringTo()\ returns\ a\ String\ traversing\ the\ list\ backwards\r\n
+comment6.params=input
+comment6.target=java.lang.String\ removeIndex(int)
+comment6.text=\r\n\ removeIndex()\ removes\ an\ item\ at\ the\ indicated\ index,\ \r\n\ then\ updates\ front\ and\ prev\r\n
+numComments=7

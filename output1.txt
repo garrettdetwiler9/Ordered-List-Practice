@@ -1,0 +1,10 @@
+Test insert in sorted order
+2, 3, 4, 8, 10
+10, 8, 4, 3, 2
+
+Test some removes
+4, 8
+8, 4
+
+Test isEmpty()
+true
